@@ -263,7 +263,7 @@ console.log("*************** Assignment 23 ***************")
 let numShift = 0;
 if (3 > 2) {
    numShift = 1;
-
+}
 console.log(numShift == 1);
 console.log("********************************************")
 
